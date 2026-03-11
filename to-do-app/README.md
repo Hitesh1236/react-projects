@@ -4,7 +4,7 @@ A simple Todo List application built using React.
 This project was created to practice React fundamentals such as state management, component structure, and hooks.
 
 ## Live Demo
-https://your-vercel-link.vercel.app
+https://hitesh-to-do-app-react.vercel.app
 
 ## Features
 - Add new tasks
